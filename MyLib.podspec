@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
   s.source_files = 'MyLib/Classes/**/*'
   
   s.resource_bundles = {
-    'MyLib' => ['MyLib/Assets/images/*']
+    'MyLib' => ['MyLib/Assets/images/*.png']
    }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
