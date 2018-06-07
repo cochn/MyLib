@@ -1,8 +1,8 @@
 {
   "name": "MyLib",
   "version": "0.1.0",
-  "summary": "A short description of MyLib.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "this is a Demo.",
+  "description": "This is a a a demo",
   "homepage": "https://github.com/cochn/MyLib",
   "license": {
     "type": "MIT",
@@ -18,5 +18,22 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "MyLib/Classes/**/*"
+  "source_files": "MyLib/Classes/**/*",
+  "resource_bundles": {
+    "MyLib": [
+      "MyLib/Assets/images/*"
+    ]
+  },
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ],
+    "FMDB": [
+      "~> 2.7.2"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 use_frameworks!
 
 target 'MyLib_Example' do
-  pod 'MyLib', :path => '../'
+ # pod 'MyLib', :path => '../'
+ pod 'MyLib', :podspec => '../MyLib.podspec'
 
   target 'MyLib_Tests' do
     inherit! :search_paths
