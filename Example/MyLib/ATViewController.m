@@ -9,6 +9,7 @@
 #import "ATViewController.h"
 
 @interface ATViewController ()
+@property (strong, nonatomic) IBOutlet UIImageView *imgView;
 
 @end
 
@@ -18,6 +19,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    UIImage *img = [UIImage imageNamed:@"img01-02"];
+    self.imgView.image = img;
+    
 }
 
 - (void)didReceiveMemoryWarning

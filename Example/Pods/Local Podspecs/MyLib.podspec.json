@@ -21,7 +21,7 @@
   "source_files": "MyLib/Classes/**/*",
   "resource_bundles": {
     "MyLib": [
-      "MyLib/Assets/images/*"
+      "MyLib/Assets/images/*.png"
     ]
   },
   "frameworks": [
