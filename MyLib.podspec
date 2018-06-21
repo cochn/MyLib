@@ -37,7 +37,15 @@ Pod::Spec.new do |s|
    }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  s.frameworks = 'UIKit', 'MapKit'
-  s.dependency 'AFNetworking', '~> 2.3'
-  s.dependency 'FMDB', '~> 2.7.2'
+  s.frameworks = 'UIKit', 'MapKit', 'CoreFoundation', 'CoreText', 'QuartzCore', 'Accelerate', 'MobileCoreServices'
+  s.library   = 'sqlite3'
+  s.dependency 'AFNetworking'
+  s.dependency 'IQKeyboardManager'
+  s.dependency 'SDWebImage'
+  s.dependency 'MJRefresh'
+
+  s.vendored_frameworks = 'MyLib/ATMJB.framework'
+
+  s.requires_arc = true
+
 end
