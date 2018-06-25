@@ -6,43 +6,43 @@
 	<dict>
 		<key>ATMJB.bundle/ATMJBYGAboutUsViewController.nib</key>
 		<data>
-		44b+L82lyLHwDksG4YWuyBW+xvI=
+		kyb3ztHcqruGN5JSgCF/8RYfuUw=
 		</data>
 		<key>ATMJB.bundle/ATMJBYGAddFolderVC.nib</key>
 		<data>
-		ZXLPwycvdqzAjc8zL4UT/0NooUw=
+		/1I62oTmWb56LgFmMTS6gf5HyOc=
 		</data>
 		<key>ATMJB.bundle/ATMJBYGFilesFolderCell.nib</key>
 		<data>
-		hGTraHgwlKJDhbQQq568g7Nr50E=
+		3oyP7SW0tTFImcc5NbKpEuO3y04=
 		</data>
 		<key>ATMJB.bundle/ATMJBYGFolderVC.nib</key>
 		<data>
-		lpvB32CR/xsRayMe31FTZ/SdGY0=
+		bTDRbGspnHL12BqAjkC+kf4QpC4=
 		</data>
 		<key>ATMJB.bundle/ATMJBYGHelpViewController.nib/objects-11.0+.nib</key>
 		<data>
-		hFwtm+S7ZFTw3M7xl+/LHIbMdIw=
+		e8CB3JqyeK+MaiTiK+gX4fsgib0=
 		</data>
 		<key>ATMJB.bundle/ATMJBYGHelpViewController.nib/runtime.nib</key>
 		<data>
-		iVx9EhMljT59+8gyyKF8OKASjj0=
+		kbO6ivRt3JlSmgm3oWzv/Rqfk00=
 		</data>
 		<key>ATMJB.bundle/ATMJBYGLeftTableViewCell.nib</key>
 		<data>
-		OzIl9UkqyYYhQIMMs5UdnK33TVU=
+		u7DOKqwW/B0kvgp6jPOBJQGUqcg=
 		</data>
 		<key>ATMJB.bundle/ATMJBYGMainTableViewCell.nib</key>
 		<data>
-		26sWgt90JzmuesmItMPgL+pBMNk=
+		3iIc1ufzMIqE65zO/nQhFXUKe3Y=
 		</data>
 		<key>ATMJB.bundle/ATMJBYGMainViewController.nib</key>
 		<data>
-		iCi2DxTZj7HXMW9O21+A82xUbRQ=
+		dv4fwsDxlO7+1FHUbK1MOMXQfV0=
 		</data>
 		<key>ATMJB.bundle/Info.plist</key>
 		<data>
-		rIakKlKl5haJ6RbFWi3a8/AXH64=
+		OYK/F4HVNCB800PKq8LNqtkCEes=
 		</data>
 		<key>ATMJB.bundle/data.plist</key>
 		<data>
@@ -180,13 +180,17 @@
 		<data>
 		2sABIU4suwIkRi7wDSvEPwPu3J4=
 		</data>
+		<key>Headers/ATMJBATLocalPathModule.h</key>
+		<data>
+		fTmdA0vOckmSetUBGJrhodB22Tc=
+		</data>
 		<key>Headers/ATMJBService.h</key>
 		<data>
-		CBEtIym/E/rf7R12/x1Us4be6Kg=
+		7Iy8xuJfslNk9TaM1jfvN7di//4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4mE9gGcO3KXIRCjdXVH+D7rs79s=
+		HejKhEaHT3FzuNfozFXPrD7X38Q=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -195,110 +199,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			44b+L82lyLHwDksG4YWuyBW+xvI=
+			kyb3ztHcqruGN5JSgCF/8RYfuUw=
 			</data>
 			<key>hash2</key>
 			<data>
-			glhmhMlzRXng5NHu7eSHAo01ecaARu5aBRzjNv7N694=
+			pasoHYvpiXnANNxYdS6jCgDrPyxHoMNc6U2FsdZFUF8=
 			</data>
 		</dict>
 		<key>ATMJB.bundle/ATMJBYGAddFolderVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZXLPwycvdqzAjc8zL4UT/0NooUw=
+			/1I62oTmWb56LgFmMTS6gf5HyOc=
 			</data>
 			<key>hash2</key>
 			<data>
-			ejEzcKLzhXr0UMp3p88hW/HoLwns8xCjpuw7fBMi+kU=
+			MxfARmuiAfonh4kpgKmHd5EokzGqGeuolJ9pfRTR3X8=
 			</data>
 		</dict>
 		<key>ATMJB.bundle/ATMJBYGFilesFolderCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hGTraHgwlKJDhbQQq568g7Nr50E=
+			3oyP7SW0tTFImcc5NbKpEuO3y04=
 			</data>
 			<key>hash2</key>
 			<data>
-			krErN6fDKTsMwt7fYNU6qawRJ5b5r9gzOhlVw+MVIh8=
+			NA6qadsI2dUEU1epndN2+RXGxqITnMhV3zwBIcAW6Oc=
 			</data>
 		</dict>
 		<key>ATMJB.bundle/ATMJBYGFolderVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lpvB32CR/xsRayMe31FTZ/SdGY0=
+			bTDRbGspnHL12BqAjkC+kf4QpC4=
 			</data>
 			<key>hash2</key>
 			<data>
-			GqH5cH1Ig+LXNwrrChjFt3Nx1Tuqmuf3ElI0oP+Z5uo=
+			cVeCJOMBe9zunCR/+2+CTU7rVbR/7VQ+hr5dAUjjTrE=
 			</data>
 		</dict>
 		<key>ATMJB.bundle/ATMJBYGHelpViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hFwtm+S7ZFTw3M7xl+/LHIbMdIw=
+			e8CB3JqyeK+MaiTiK+gX4fsgib0=
 			</data>
 			<key>hash2</key>
 			<data>
-			o1+GX59ex8S5nSH1C4vhjP5EWpUdt6Fu5Dlu2cxb204=
+			z6pJkVje3iyTRqKxGtg0aYOgnfYMw1NH6Fqrg/BqgGg=
 			</data>
 		</dict>
 		<key>ATMJB.bundle/ATMJBYGHelpViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iVx9EhMljT59+8gyyKF8OKASjj0=
+			kbO6ivRt3JlSmgm3oWzv/Rqfk00=
 			</data>
 			<key>hash2</key>
 			<data>
-			4l7y+VylvbDOXs9SYLb5qzeIV0pfLPkBuqWhbgM2C4s=
+			eF+HhMLdDUrUvG+pjoA3pfpWBm7Oa5nR8H0SxQ4quE0=
 			</data>
 		</dict>
 		<key>ATMJB.bundle/ATMJBYGLeftTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OzIl9UkqyYYhQIMMs5UdnK33TVU=
+			u7DOKqwW/B0kvgp6jPOBJQGUqcg=
 			</data>
 			<key>hash2</key>
 			<data>
-			N/y220VmV4ai18qrD78lmjvoul1MpEEAjS+A1POm2Ho=
+			+Aaib2+BlK+bGdnsMsTfWvRNoLSl6N3JWDbN0sCYZqU=
 			</data>
 		</dict>
 		<key>ATMJB.bundle/ATMJBYGMainTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			26sWgt90JzmuesmItMPgL+pBMNk=
+			3iIc1ufzMIqE65zO/nQhFXUKe3Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jk2SqFm0THjlGBDh2m71I7b7KRFxLGCqgMH0rJtkHVU=
+			aq4ze9BjtUYpLlsw3kxMZXSI/ezN4GzM4OLZEDvqxIw=
 			</data>
 		</dict>
 		<key>ATMJB.bundle/ATMJBYGMainViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iCi2DxTZj7HXMW9O21+A82xUbRQ=
+			dv4fwsDxlO7+1FHUbK1MOMXQfV0=
 			</data>
 			<key>hash2</key>
 			<data>
-			KnrfWuUtP3PQz4XteFtvtAA+ALF78wrjeVLLwD5kpRg=
+			hsirQEBKniveu39rPa+FW/i0wZRbDnnNkJkKbvFBEyU=
 			</data>
 		</dict>
 		<key>ATMJB.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rIakKlKl5haJ6RbFWi3a8/AXH64=
+			OYK/F4HVNCB800PKq8LNqtkCEes=
 			</data>
 			<key>hash2</key>
 			<data>
-			mXn3kY7w+11cim7x2iITPYT83S/YdK1QUPkx/Pk4rKY=
+			E0LC3CFXgGcYIYkHFCrdwysNRV8AtAaD3sLFfp2Lf+A=
 			</data>
 		</dict>
 		<key>ATMJB.bundle/data.plist</key>
@@ -675,15 +679,26 @@
 			Oc6bnyhact6tFnuHi12NquRhptg6Y2LLLIfz33UIEdY=
 			</data>
 		</dict>
+		<key>Headers/ATMJBATLocalPathModule.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fTmdA0vOckmSetUBGJrhodB22Tc=
+			</data>
+			<key>hash2</key>
+			<data>
+			8PBtu7AWZoa3YZx3JYfQH5zJ+PccZHCVpVTj8Adxcs0=
+			</data>
+		</dict>
 		<key>Headers/ATMJBService.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CBEtIym/E/rf7R12/x1Us4be6Kg=
+			7Iy8xuJfslNk9TaM1jfvN7di//4=
 			</data>
 			<key>hash2</key>
 			<data>
-			N27e8dllD8n3LrnE87sd1VbWPCFc7ukvQ8uKe4PW5gg=
+			c481ihI/z23uQ7N3qOfAdluyrwqI+hnEOnZj4hWxUXg=
 			</data>
 		</dict>
 	</dict>

@@ -7,9 +7,12 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 @interface ATMJBService : NSObject
 
-- (BOOL)setUpWithAppKey:(NSString *)key contact:(NSDictionary *)ct;
+// ct 联系人信息 key: ct1 ct2 ct3
++ (BOOL)setUpWithAppContact:(NSDictionary *)ct;
+
 
 @end
